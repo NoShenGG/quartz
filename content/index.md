@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Nexus
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+There's not much here yet, but check out:
+- [[LoganCSharp|Logan's C Sharp & Unity Coding Standards]] adapted for Obsidian Markup by David Tran
