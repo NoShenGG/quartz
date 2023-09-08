@@ -3,7 +3,7 @@ title: Logan's C Sharp & Unity Coding Standards
 ---
 *+Bonus Guide to Refactoring*
 
-*Originally written by Logan Bowers*
+*Originally written by Logan Bowers* (**[bowers-l.github.io](https://bowers-l.github.io)**)
 
 *Reformatted/edited for Obsidian Markdown by David Tran*
 
