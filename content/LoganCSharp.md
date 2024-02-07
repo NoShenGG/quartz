@@ -160,7 +160,7 @@ This happens when you call a function that modifies the state of some variable o
 >	set 
 >	{
 >	 _count = value;
->	 }
+>	}
 >}
 >```
 >
